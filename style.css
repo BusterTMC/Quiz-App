@@ -43,3 +43,23 @@ ul li {
 ul li label {
     cursor: pointer;
 }
+
+button {
+background-color: #b8c6db;
+border: none;
+color: white;
+cursor: pointer;
+display: block;
+font-family: inherit;
+font-size: 1.3rem;
+width: 100%;
+padding: 1.3rem;
+}
+
+button:hover {
+background-color: #771c79;
+}
+
+button:focus {
+    outline: none;
+}
